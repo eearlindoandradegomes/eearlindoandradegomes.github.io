@@ -98,7 +98,7 @@ header .container {
     align-items: center;
     text-align: center;
     color: var(--cor-branco);
-    padding: 0 20px;
+    padding: 0 10rem;
     margin-top: 0.5rem; /* Altura do header */
 }
 
@@ -106,12 +106,14 @@ header .container {
     font-size: 3rem;
     margin-bottom: 1rem;
     text-shadow: 2px 2px 4px #000000;
+    
 }
 
 .hero-content p {
-    font-size: 1.2rem;
-    margin-bottom: 2rem;
-    text-shadow: 2px 2px 4px #000000;
+    font-size: 1.5rem;
+    margin-bottom: 2rem; 
+    text-shadow: 0 0 5px #000000, 0 0 10px #030303, 0 0 15px #1b1b1b, 0 0 20px #3f3f3f, 0 0 30px #747474;
+    color: #FFFFFF;
 }
 
 .cta-button {
