@@ -260,6 +260,10 @@ footer {
         display: block;
     }
 
+    .hero {
+        padding: 0 3rem;
+    }
+
     .nav-menu {
         display: none;
         flex-direction: column;
@@ -281,7 +285,10 @@ footer {
     }
 
     .hero-content h1 {
-        font-size: 2.2rem;
+        font-size: 1.5rem;
+    }
+    .hero-content p {
+        font-size: .8rem;
     }
 
     .card {
